@@ -1,0 +1,5 @@
+<language cs>
+FTDI(v4):
+- v budoucnu zvazit vymenu minu-usb za mikro-usb
+- upravit dle novych standardu (moznost dat do smrstovacky)
+</language cs>
