@@ -1,5 +1,11 @@
 <language cs>
-FTDI(v4):
-- v budoucnu zvazit vymenu minu-usb za mikro-usb
-- upravit dle novych standardu (moznost dat do smrstovacky)
+FTDI(v5):
+- moznost vyberu konektoru mezi pinheady, nebo mini/micro USB
+- moznost dat do smrstovacky
+- vyveden kompletni seriovy port
+- pridan jumperem pripojitelny max485
+- zdvojeny vystupni pinheady
+- pridany upevnovaci otvory (2 x d 2.2 mm, roztec 28 mm)
+- popisky presunuty z medi do potisku
+- zmenseno (nove rozmery 26 x 33 mm)
 </language cs>
