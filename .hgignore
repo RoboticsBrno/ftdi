@@ -1,3 +1,3 @@
 syntax: glob
 eagle.epf
-**.[bls]\#[1-9]
+**.[bls]\#[\#1-9]
